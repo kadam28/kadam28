@@ -15,10 +15,10 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?kadam28=VijayKadam&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?https://github.com/kadam28=VijayKadam&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?kadam28=VijayKadam)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?https://github.com/kadam28=VijayKadam)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kadam28=VijayKadam&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/kadam28=VijayKadam&layout=compact)
 
-![](https://komarev.com/ghpvc/?kadam28=VijayKadam&color=blue)
+![](https://komarev.com/ghpvc/?https://github.com/kadam28=VijayKadam&color=blue)
